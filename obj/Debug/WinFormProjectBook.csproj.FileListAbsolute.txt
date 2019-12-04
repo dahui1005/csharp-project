@@ -1,0 +1,15 @@
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\bin\Debug\WinFormProjectBook.exe.config
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\bin\Debug\WinFormProjectBook.exe
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\bin\Debug\WinFormProjectBook.pdb
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\obj\Debug\WinFormProjectBook.csprojAssemblyReference.cache
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\obj\Debug\WinFormProjectBook.Form1.resources
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\obj\Debug\WinFormProjectBook.Properties.Resources.resources
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\obj\Debug\WinFormProjectBook.csproj.GenerateResource.cache
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\obj\Debug\WinFormProjectBook.exe
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\obj\Debug\WinFormProjectBook.pdb
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\bin\Debug\MySql.Data.dll
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\bin\Debug\Google.Protobuf.dll
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\bin\Debug\Renci.SshNet.dll
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\bin\Debug\MySql.Data.xml
+C:\Users\dahui\Documents\Programing\C# Workspace\WinFormProject\WinFormProjectBook\obj\Debug\WinFormProjectBook.csproj.CopyComplete
